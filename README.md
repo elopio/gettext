@@ -4,7 +4,7 @@
 Go bindings for [GNU gettext][1], an internationalization and localization
 library for writing multilingual systems.
 
-## Requeriments
+## Requirements
 
 * [GNU gettext][1]
 
